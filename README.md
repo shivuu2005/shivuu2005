@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Malviya</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A Web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivuu2005" alt="shivuu2005" /></a> </p>
 
