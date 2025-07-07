@@ -28,17 +28,16 @@
 ---
 
 ### 📫 Connect with Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(Add your real link)*  
-- 📧 Email: your-email@example.com *(Replace with your email)*  
-- 🌐 Portfolio: [Your Portfolio](https://your-portfolio-link.com) *(Optional, if you have one)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-malviya-499070303)
+- 📧 Email:(malviyashivam238@gmail.com)
+- 🌐 Portfolio: [Your Portfolio](http://shivammalviya.me)
 
 ---
 
 ⭐ **Pinned Repositories Suggestion:**
 - ✅ RGPV Result Bot
 - ✅ Automation Projects
-- ✅ Any Python Scripts or APIs you built
-- ✅ Portfolio Website (if any)
+  
 
 ---
 
