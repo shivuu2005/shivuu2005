@@ -30,7 +30,7 @@
 ### 📫 Connect with Me:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-malviya-499070303)
 - 📧 Email:(malviyashivam238@gmail.com)
-- 🌐 Portfolio: [Your Portfolio](http://shivammalviya.me)
+- 🌐 Portfolio: [Portfolio](http://shivammalviya.me)
 
 ---
 
