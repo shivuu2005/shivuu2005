@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Malviya</h1>
 <h3 align="center">A Passionate Developer & Tech Enthusiast from India 🇮🇳</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shital2005421&label=Profile%20views&color=0e75b6&style=flat" alt="shital2005421" />
+</p>
+
+
 - 🎓 B.Tech Student | Exploring Full Stack Web Development  
 - 💻 Currently working on **RGPV Result Bot & Automation Projects**  
 - 🔭 I’m also learning **AI Tools, APIs, and Backend Development**  
